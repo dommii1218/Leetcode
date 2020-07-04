@@ -35,3 +35,4 @@ To record coding everyday.
 |513|[Game Play Analysis III](https://github.com/dommii1218/Leetcode/blob/master/Database/534.%20Game%20Play%20Analysis%20III.md)|Median|
 |514|[Game Play Analysis IV](https://github.com/dommii1218/Leetcode/blob/master/Database/550.%20Game%20Play%20Analysis%20IV.md)|Median|
 |569|[Median Employee Salary](https://github.com/dommii1218/Leetcode/blob/master/Database/569.%20Median%20Employee%20Salary.md)|Hard|
+|570|[Managers with at Least 5 Direct Reports](https://github.com/dommii1218/Leetcode/blob/master/Database/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports.md)|Median|
