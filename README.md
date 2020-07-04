@@ -15,6 +15,7 @@ To record coding everyday.
 |18|[4Sum](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/18.%204Sum.md)|Median|
 |26|[Remove Duplicates from Sorted Array](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)|Easy|
 |27|[Remove Element](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/27.%20Remove%20Element.md)|Easy|
+|31|[Next Permutation](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/31.%20Next%20Permutation.md)|Median|
 
 ## Database
 |#|Title|Difficulty|
