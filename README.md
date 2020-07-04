@@ -33,3 +33,4 @@ To record coding everyday.
 |511|[Game Play Analysis I](https://github.com/dommii1218/Leetcode/blob/master/Database/511.%20Game%20Play%20Analysis%20I.md)|Easy|
 |512|[Game Play Analysis II](https://github.com/dommii1218/Leetcode/blob/master/Database/512.%20Game%20Play%20Analysis%20II.md)|Easy|
 |513|[Game Play Analysis III](https://github.com/dommii1218/Leetcode/blob/master/Database/534.%20Game%20Play%20Analysis%20III.md)|Median|
+|514|[Game Play Analysis IV](https://github.com/dommii1218/Leetcode/blob/master/Database/550.%20Game%20Play%20Analysis%20IV.md)|Median|
