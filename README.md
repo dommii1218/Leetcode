@@ -17,4 +17,6 @@ To record coding everyday.
 |27|[Remove Element](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/27.%20Remove%20Element.md)|Easy|
 
 ## Database
+|#|Title|Difficulty|
+|:---|:---|:---|
 |175|[Combine Two Tables](https://github.com/dommii1218/Leetcode/blob/master/Database/175.%20Combine%20Two%20Tables.md)|Easy|
