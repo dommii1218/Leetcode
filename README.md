@@ -21,3 +21,4 @@ To record coding everyday.
 |:---|:---|:---|
 |175|[Combine Two Tables](https://github.com/dommii1218/Leetcode/blob/master/Database/175.%20Combine%20Two%20Tables.md)|Easy|
 |176|[Second Highest Salary](https://github.com/dommii1218/Leetcode/blob/master/Database/176.%20Second%20Highest%20Salary.md)|Easy|
+|178|[Rank Scores](https://github.com/dommii1218/Leetcode/blob/master/Database/177.%20Nth%20Highest%20Salary.md)|Median|
