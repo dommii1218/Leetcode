@@ -25,4 +25,4 @@ To record coding everyday.
 |178|[Rank Scores](https://github.com/dommii1218/Leetcode/blob/master/Database/178.%20Rank%20Scores.md)|Median|
 |180|[Consecutive Numbers](https://github.com/dommii1218/Leetcode/blob/master/Database/180.%20Consecutive%20Numbers.md)|Median|
 |181|[Employees Earning More Than Their Managers](https://github.com/dommii1218/Leetcode/blob/master/Database/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.md)|Easy|
-|182|[Duplicate Emails]()|Easy|
+|182|[Duplicate Emails](https://github.com/dommii1218/Leetcode/blob/master/Database/182.%20Duplicate%20Emails.md)|Easy|
