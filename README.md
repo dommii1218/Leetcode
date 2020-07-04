@@ -23,3 +23,4 @@ To record coding everyday.
 |176|[Second Highest Salary](https://github.com/dommii1218/Leetcode/blob/master/Database/176.%20Second%20Highest%20Salary.md)|Easy|
 |177|[Nth Highest Salary](https://github.com/dommii1218/Leetcode/blob/master/Database/177.%20Nth%20Highest%20Salary.md)|Median|
 |178|[Rank Scores](https://github.com/dommii1218/Leetcode/blob/master/Database/178.%20Rank%20Scores.md)|Median|
+|180|[Consecutive Numbers](https://github.com/dommii1218/Leetcode/blob/master/Database/180.%20Consecutive%20Numbers.md)|Median|
