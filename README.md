@@ -30,3 +30,4 @@ To record coding everyday.
 |184|[Department Highest Salary](https://github.com/dommii1218/Leetcode/blob/master/Database/184.%20Department%20Highest%20Salary.md)|Median|
 |185|[Department Top Three Salaries](https://github.com/dommii1218/Leetcode/blob/master/Database/185.%20Department%20Top%20Three%20Salaries.md)|Hard|
 |262|[Trips and Users](https://github.com/dommii1218/Leetcode/blob/master/Database/262.%20Trips%20and%20Users.md)|Hard|
+|511|[Game Play Analysis I](https://github.com/dommii1218/Leetcode/blob/master/Database/511.%20Game%20Play%20Analysis%20I.md)|Easy|
