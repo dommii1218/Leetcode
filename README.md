@@ -21,6 +21,7 @@ To record coding everyday.
 |35|[Search Insert Position](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/35.%20Search%20Insert%20Position.md)|Easy|
 |39|[Combination Sum](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/39.%20Combination%20Sum.md)|Median|
 |40|[Combination Sum II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/40.%20Combination%20Sum%20II.md)|Median|
+|48|[Rotate Image](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/48.%20Rotate%20Image.md)|Median|
 
 ## Database
 |#|Title|Difficulty|
