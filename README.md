@@ -22,6 +22,7 @@ To record coding everyday.
 |39|[Combination Sum](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/39.%20Combination%20Sum.md)|Medium|
 |40|[Combination Sum II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/40.%20Combination%20Sum%20II.md)|Medium|
 |48|[Rotate Image](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/48.%20Rotate%20Image.md)|Medium|
+|53|[Maximum Subarray](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/53.%20Maximum%20Subarray.md)|Easy|
 
 ## Database
 |#|Title|Difficulty|
