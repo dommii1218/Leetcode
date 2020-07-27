@@ -30,6 +30,7 @@ To record coding everyday.
 |62|[Unique Paths](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/62.%20Unique%20Paths.md)|Medium|
 |63|[Unique Paths II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/63.%20Unique%20Paths%20II.md)|Medium|
 |441|[Arranging Coins](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/441.%20Arranging%20Coins.md)|Easy|
+|1365|[How Many Numbers Are Smaller Than the Current Number](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.md)|Easy|
 |1480|[Running Sum of 1d Array](https://github.com/dommii1218/Leetcode/tree/master/Algorithm)|Easy|
 
 ## Database
