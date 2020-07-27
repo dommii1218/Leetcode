@@ -29,6 +29,7 @@ To record coding everyday.
 |59|[Spiral Matrix II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/59.%20Spiral%20Matrix%20II.md)|Medium|
 |62|[Unique Paths](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/62.%20Unique%20Paths.md)|Medium|
 |63|[Unique Paths II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/63.%20Unique%20Paths%20II.md)|Medium|
+|1480|[Running Sum of 1d Array](https://github.com/dommii1218/Leetcode/tree/master/Algorithm)|Easy|
 
 ## Database
 |#|Title|Difficulty|
