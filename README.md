@@ -32,6 +32,7 @@ To record coding everyday.
 |63|[Unique Paths II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/63.%20Unique%20Paths%20II.md)|Medium|
 |107|[Binary Tree Level Order Traversal II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)|Easy|
 |441|[Arranging Coins](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/441.%20Arranging%20Coins.md)|Easy|
+|559|[Maximum Depth of N-ary Tree](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/559.%20Maximum%20Depth%20of%20N-ary%20Tree.md)|Easy|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.md)|Easy|
 |1417|[Reformat The String](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/1417.%20Reformat%20The%20String.md)|Easy|
 |1431|[Kids With the Greatest Number of Candies](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md)|Easy|
