@@ -36,6 +36,7 @@ To record coding everyday.
 |449|[Serialize and Deserialize BST](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/449.%20Serialize%20and%20Deserialize%20BST.md)|Medium|
 |559|[Maximum Depth of N-ary Tree](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/559.%20Maximum%20Depth%20of%20N-ary%20Tree.md)|Easy|
 |873|[Length of Longest Fibonacci Subsequence](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/873.%20Length%20of%20Longest%20Fibonacci%20Subsequence.md)|Medium|
+|1003|[Check If Word Is Valid After Substitutions](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/1003.%20Check%20If%20Word%20Is%20Valid%20After%20Substitutions.md)|Medium|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.md)|Easy|
 |1417|[Reformat The String](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/1417.%20Reformat%20The%20String.md)|Easy|
 |1431|[Kids With the Greatest Number of Candies](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md)|Easy|
