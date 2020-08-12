@@ -32,6 +32,7 @@ To record coding everyday.
 |62|[Unique Paths](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/62.%20Unique%20Paths.md)|Medium|
 |63|[Unique Paths II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/63.%20Unique%20Paths%20II.md)|Medium|
 |107|[Binary Tree Level Order Traversal II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)|Easy|
+|118|[Pascal's Triangle](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/118.%20Pascal's%20Triangle.md)|Easy|
 |441|[Arranging Coins](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/441.%20Arranging%20Coins.md)|Easy|
 |449|[Serialize and Deserialize BST](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/449.%20Serialize%20and%20Deserialize%20BST.md)|Medium|
 |559|[Maximum Depth of N-ary Tree](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/559.%20Maximum%20Depth%20of%20N-ary%20Tree.md)|Easy|
