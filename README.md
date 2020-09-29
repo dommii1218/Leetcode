@@ -10,6 +10,7 @@ To record coding everyday.
 |4|[Median of Two Sorted Arrays](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/4.%20Median%20of%20Two%20Sorted%20Arrays.md)|Hard|
 |5|[Longest Palindromic Substring](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/5.%20Longest%20Palindromic%20Substring.md)|Medium|
 |6|[ZigZag Conversion](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/6.%20ZigZag%20Conversion.md)|Medium|
+|7|[Reverse Integer](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/7.%20Reverse%20Integer.md)|Easy|
 |10|[Regular Expression Matching](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/10.%20Regular%20Expression%20Matching.md)|Hard|
 |11|[Container With Most Water](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/11.%20Container%20With%20Most%20Water.md)|Medium|
 |15|[3Sum](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/15.%203Sum.md)|Medium|
