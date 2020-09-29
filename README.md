@@ -15,6 +15,7 @@ To record coding everyday.
 |15|[3Sum](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/15.%203Sum.md)|Medium|
 |16|[3Sum Closest](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/16.%203Sum%20Closest.md)|Medium|
 |18|[4Sum](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/18.%204Sum.md)|Medium|
+|22|[Generate Parentheses](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/22.%20Generate%20Parentheses.md)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)|Easy|
 |27|[Remove Element](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/27.%20Remove%20Element.md)|Easy|
 |28|[Implement strStr()](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/28.%20Implement%20strStr().md)|Easy|
