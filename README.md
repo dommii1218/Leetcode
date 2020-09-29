@@ -12,6 +12,7 @@ To record coding everyday.
 |6|[ZigZag Conversion](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/6.%20ZigZag%20Conversion.md)|Medium|
 |7|[Reverse Integer](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/7.%20Reverse%20Integer.md)|Easy|
 |8|[String to Integer (atoi)](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/8.%20String%20to%20Integer%20(atoi).md)|Medium|
+|9|[Palindrome Number](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/9.%20Palindrome%20Number.md)|Easy|
 |10|[Regular Expression Matching](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/10.%20Regular%20Expression%20Matching.md)|Hard|
 |11|[Container With Most Water](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/11.%20Container%20With%20Most%20Water.md)|Medium|
 |15|[3Sum](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/15.%203Sum.md)|Medium|
