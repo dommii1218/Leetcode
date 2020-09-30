@@ -23,6 +23,7 @@ To record coding everyday.
 |17|[Letter Combinations of a Phone Number](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)|Medium|
 |18|[4Sum](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/18.%204Sum.md)|Medium|
 |19|[Remove Nth Node From End of List](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)|Medium|
+|20|[Valid Parentheses](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/20.%20Valid%20Parentheses.md)|Easy|
 |22|[Generate Parentheses](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/22.%20Generate%20Parentheses.md)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)|Easy|
 |27|[Remove Element](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/27.%20Remove%20Element.md)|Easy|
