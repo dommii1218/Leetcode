@@ -17,6 +17,7 @@ To record coding everyday.
 |11|[Container With Most Water](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/11.%20Container%20With%20Most%20Water.md)|Medium|
 |12|[Integer to Roman](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/12.%20Integer%20to%20Roman.md)|Medium|
 |13|[Roman to Integer](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/13.%20Roman%20to%20Integer.md)|Easy|
+|14|[Longest Common Prefix](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/14.%20Longest%20Common%20Prefix.md)|Easy|
 |15|[3Sum](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/15.%203Sum.md)|Medium|
 |16|[3Sum Closest](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/16.%203Sum%20Closest.md)|Medium|
 |18|[4Sum](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/18.%204Sum.md)|Medium|
