@@ -27,6 +27,7 @@ To record coding everyday.
 |21|[Merge Two Sorted Lists](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/21.%20Merge%20Two%20Sorted%20Lists.md)|Easy|
 |22|[Generate Parentheses](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/22.%20Generate%20Parentheses.md)|Medium|
 |23|[Merge k Sorted Lists](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/23.%20Merge%20k%20Sorted%20Lists.md)|Hard|
+|24|[Swap Nodes in Pairs](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/24.%20Swap%20Nodes%20in%20Pairs.md)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)|Easy|
 |27|[Remove Element](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/27.%20Remove%20Element.md)|Easy|
 |28|[Implement strStr()](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/28.%20Implement%20strStr().md)|Easy|
