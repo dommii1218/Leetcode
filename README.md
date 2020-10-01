@@ -31,6 +31,7 @@ To record coding everyday.
 |26|[Remove Duplicates from Sorted Array](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)|Easy|
 |27|[Remove Element](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/27.%20Remove%20Element.md)|Easy|
 |28|[Implement strStr()](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/28.%20Implement%20strStr().md)|Easy|
+|29|[Divide Two Integers](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/29.%20Divide%20Two%20Integers.md)|Medium|
 |31|[Next Permutation](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/31.%20Next%20Permutation.md)|Medium|
 |33|[Search in Rotated Sorted Array](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/33.%20Search%20in%20Rotated%20Sorted%20Array.md)|Medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)|Medium|
