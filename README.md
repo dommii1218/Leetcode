@@ -63,7 +63,10 @@ To record coding everyday.
 
 ```
 str.toCharArray()
-Arrays.stream().allMatch(predicate) //predicate: boolean
+Charcter.getNumericValue(ch); //char -> int
+Integer.toString(num); //int -> String
+Arrays.stream(nums).allMatch(predicate) //predicate: boolean
+IntStream.of(nums).boxed().allMatch() //boxed(): used for primitive type
 ```
 
 ## Database
