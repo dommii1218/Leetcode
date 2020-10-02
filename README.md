@@ -61,7 +61,7 @@ To record coding everyday.
 |1431|[Kids With the Greatest Number of Candies](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md)|Easy|
 |1480|[Running Sum of 1d Array](https://github.com/dommii1218/Leetcode/tree/master/Algorithm)|Easy|
 
-```
+```java
 str.toCharArray()
 Charcter.getNumericValue(ch); //char -> int
 Integer.toString(num); //int -> String
