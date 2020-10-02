@@ -36,6 +36,7 @@ To record coding everyday.
 |33|[Search in Rotated Sorted Array](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/33.%20Search%20in%20Rotated%20Sorted%20Array.md)|Medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)|Medium|
 |35|[Search Insert Position](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/35.%20Search%20Insert%20Position.md)|Easy|
+|36|[Valid Sudoku](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/36.%20Valid%20Sudoku.md)|Medium|
 |39|[Combination Sum](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/39.%20Combination%20Sum.md)|Medium|
 |40|[Combination Sum II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/40.%20Combination%20Sum%20II.md)|Medium|
 |48|[Rotate Image](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/48.%20Rotate%20Image.md)|Medium|
