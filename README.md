@@ -41,6 +41,7 @@ To record coding everyday.
 |39|[Combination Sum](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/39.%20Combination%20Sum.md)|Medium|
 |40|[Combination Sum II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/40.%20Combination%20Sum%20II.md)|Medium|
 |41|[First Missing Positive](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/41.%20First%20Missing%20Positive.md)|Hard|
+|42|[Trapping Rain Water](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/42.%20Trapping%20Rain%20Water.md)|Hard|
 |48|[Rotate Image](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/48.%20Rotate%20Image.md)|Medium|
 |53|[Maximum Subarray](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/53.%20Maximum%20Subarray.md)|Easy|
 |54|[Spiral Matrix](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/54.%20Spiral%20Matrix.md)|Medium|
