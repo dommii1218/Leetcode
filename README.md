@@ -49,6 +49,7 @@ To record coding everyday.
 |47|[Permutations II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/47.%20Permutations%20II.md)|Medium|
 |48|[Rotate Image](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/48.%20Rotate%20Image.md)|Medium|
 |49|[Group Anagrams](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/49.%20Group%20Anagrams.md)|Medium|
+|50|[Pow(x, n)](https://github.com/dommii1218/Leetcode/tree/master/Algorithm)|Medium|
 |53|[Maximum Subarray](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/53.%20Maximum%20Subarray.md)|Easy|
 |54|[Spiral Matrix](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/54.%20Spiral%20Matrix.md)|Medium|
 |55|[Jump Game](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/55.%20Jump%20Game.md)|Medium|
