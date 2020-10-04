@@ -48,6 +48,7 @@ To record coding everyday.
 |46|[Permutations](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/46.%20Permutations.md)Medium|
 |47|[Permutations II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/47.%20Permutations%20II.md)|Medium|
 |48|[Rotate Image](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/48.%20Rotate%20Image.md)|Medium|
+|49|[Group Anagrams](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/49.%20Group%20Anagrams.md)|Medium|
 |53|[Maximum Subarray](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/53.%20Maximum%20Subarray.md)|Easy|
 |54|[Spiral Matrix](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/54.%20Spiral%20Matrix.md)|Medium|
 |55|[Jump Game](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/55.%20Jump%20Game.md)|Medium|
@@ -75,6 +76,17 @@ Charcter.getNumericValue(ch); //char -> int
 Integer.toString(num); //int -> String
 Arrays.stream(nums).allMatch(predicate) //predicate: boolean
 IntStream.of(nums).boxed().allMatch() //boxed(): used for primitive type
+
+// sort Strinng
+public String sortStr(String str) {
+    char[] chars = str.toCharArray();
+    Arrays.sort(chars);
+    return new String(chars);
+}
+
+// HashMap
+List<List<String>> ans = new ArrayList<>();
+ans.addAll(map.values());
 
  // pay attention to the use of arraylist, it is referenced which can be changed.
 ```
