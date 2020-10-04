@@ -45,6 +45,7 @@ To record coding everyday.
 |43|[Multiply Strings](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/43.%20Multiply%20Strings.md)|Medium|
 |44|[Wildcard Matching](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/44.%20Wildcard%20Matching.md)|Hard|
 |45|[Jump Game II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/45.%20Jump%20Game%20II.md)|Hard|
+|46|[Permutations](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/46.%20Permutations.md)Medium|
 |48|[Rotate Image](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/48.%20Rotate%20Image.md)|Medium|
 |53|[Maximum Subarray](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/53.%20Maximum%20Subarray.md)|Easy|
 |54|[Spiral Matrix](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/54.%20Spiral%20Matrix.md)|Medium|
@@ -67,11 +68,14 @@ To record coding everyday.
 |1480|[Running Sum of 1d Array](https://github.com/dommii1218/Leetcode/tree/master/Algorithm)|Easy|
 
 ```java
+Arrays.toList(nums)
 str.toCharArray()
 Charcter.getNumericValue(ch); //char -> int
 Integer.toString(num); //int -> String
 Arrays.stream(nums).allMatch(predicate) //predicate: boolean
 IntStream.of(nums).boxed().allMatch() //boxed(): used for primitive type
+
+ // pay attention to the use of arraylist, it is referenced which can be changed.
 ```
 
 ## Database
