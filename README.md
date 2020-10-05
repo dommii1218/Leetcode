@@ -55,6 +55,7 @@ To record coding everyday.
 |55|[Jump Game](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/55.%20Jump%20Game.md)|Medium|
 |56|[Merge Intervals](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/56.%20Merge%20Intervals.md)|Medium|
 |57|[Insert Interval](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/57.%20Insert%20Interval.md)|Medium|
+|58|[Length of Last Word](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/58.%20Length%20of%20Last%20Word.md)|Easy|
 |59|[Spiral Matrix II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/59.%20Spiral%20Matrix%20II.md)|Medium|
 |62|[Unique Paths](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/62.%20Unique%20Paths.md)|Medium|
 |63|[Unique Paths II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/63.%20Unique%20Paths%20II.md)|Medium|
