@@ -45,7 +45,7 @@ To record coding everyday.
 |43|[Multiply Strings](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/43.%20Multiply%20Strings.md)|Medium|
 |44|[Wildcard Matching](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/44.%20Wildcard%20Matching.md)|Hard|
 |45|[Jump Game II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/45.%20Jump%20Game%20II.md)|Hard|
-|46|[Permutations](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/46.%20Permutations.md)Medium|
+|46|[Permutations](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/46.%20Permutations.md)|Medium|
 |47|[Permutations II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/47.%20Permutations%20II.md)|Medium|
 |48|[Rotate Image](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/48.%20Rotate%20Image.md)|Medium|
 |49|[Group Anagrams](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/49.%20Group%20Anagrams.md)|Medium|
