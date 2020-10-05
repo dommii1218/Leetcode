@@ -72,13 +72,14 @@ To record coding everyday.
 
 ```java
 Arrays.toList(nums)
+list.toArray(new int[list.size()][2])
 str.toCharArray()
 Charcter.getNumericValue(ch); //char -> int
 Integer.toString(num); //int -> String
 Arrays.stream(nums).allMatch(predicate) //predicate: boolean
 IntStream.of(nums).boxed().allMatch() //boxed(): used for primitive type
 
-// sort Strinng
+// sort String
 public String sortStr(String str) {
     char[] chars = str.toCharArray();
     Arrays.sort(chars);
@@ -88,6 +89,9 @@ public String sortStr(String str) {
 // HashMap
 List<List<String>> ans = new ArrayList<>();
 ans.addAll(map.values());
+
+// Sort using lambda expression
+Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
 
  // pay attention to the use of arraylist, it is referenced which can be changed.
 ```
