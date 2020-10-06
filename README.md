@@ -64,6 +64,7 @@ To record coding everyday.
 |64|[Minimum Path Sum](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/64.%20Minimum%20Path%20Sum.md)|Medium|
 |66|[Plus One](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/66.%20Plus%20One.md)|Easy|
 |67|[Add Binary](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/67.%20Add%20Binary.md)|Easy|
+|68|[Text Justification](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/68.%20Text%20Justification.md)|Hard|
 |107|[Binary Tree Level Order Traversal II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)|Easy|
 |118|[Pascal's Triangle](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/118.%20Pascal's%20Triangle.md)|Easy|
 |206|[Reverse Linked List](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/206.%20Reverse%20Linked%20List.md)|Easy|
