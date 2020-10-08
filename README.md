@@ -70,6 +70,7 @@ To record coding everyday.
 |71|[Simplify Path](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/71.%20Simplify%20Path.md)|Medium|
 |73|[Set Matrix Zeroes](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/73.%20Set%20Matrix%20Zeroes.md)|Medium|
 |74|[Search a 2D Matrix](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/74.%20Search%20a%202D%20Matrix.md)|Medium|
+|75|[Sort Colors](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/75.%20Sort%20Colors.md)|Medium|
 |107|[Binary Tree Level Order Traversal II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)|Easy|
 |118|[Pascal's Triangle](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/118.%20Pascal's%20Triangle.md)|Easy|
 |206|[Reverse Linked List](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/206.%20Reverse%20Linked%20List.md)|Easy|
