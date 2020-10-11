@@ -76,6 +76,7 @@ To record coding everyday.
 |79|[Word Search](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/79.%20Word%20Search.md)|Medium|
 |80|[Remove Duplicates from Sorted Array II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.md)|Medium|
 |81|[Search in Rotated Sorted Array II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.md)|Medium|
+|82|[Remove Duplicates from Sorted List II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)|Medium|
 |83|[Remove Duplicates from Sorted List](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)|Easy|
 |107|[Binary Tree Level Order Traversal II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)|Easy|
 |118|[Pascal's Triangle](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/118.%20Pascal's%20Triangle.md)|Easy|
