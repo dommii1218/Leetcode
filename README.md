@@ -110,6 +110,7 @@ int[] ans = list.stream().mapToInt(i -> i).toArray();
 
 str.toCharArray()
 Charcter.getNumericValue(ch); //char -> int
+Integer.valueOf(str);  //String -> int
 Integer.toString(num); //int -> String
 Arrays.stream(nums).allMatch(predicate) //predicate: boolean
 IntStream.of(nums).boxed().allMatch() //boxed(): used for primitive type
