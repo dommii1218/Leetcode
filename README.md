@@ -79,6 +79,7 @@ To record coding everyday.
 |82|[Remove Duplicates from Sorted List II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)|Medium|
 |83|[Remove Duplicates from Sorted List](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)|Easy|
 |84|[Largest Rectangle in Histogram](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/84.%20Largest%20Rectangle%20in%20Histogram.md)|Hard|
+|86|[Partition List](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/86.%20Partition%20List.md)|Medium|
 |107|[Binary Tree Level Order Traversal II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)|Easy|
 |118|[Pascal's Triangle](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/118.%20Pascal's%20Triangle.md)|Easy|
 |206|[Reverse Linked List](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/206.%20Reverse%20Linked%20List.md)|Easy|
