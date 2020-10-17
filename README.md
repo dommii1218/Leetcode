@@ -86,6 +86,7 @@ To record coding everyday.
 |91|[Decode Ways](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/91.%20Decode%20Ways.md)|Medium|
 |92|[Reverse Linked List II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/92.%20Reverse%20Linked%20List%20II.md)|Medium|
 |93|[Restore IP Addresses](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/93.%20Restore%20IP%20Addresses.md)|Medium|
+|94|[Binary Tree Inorder Traversal](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/94.%20Binary%20Tree%20Inorder%20Traversal.md)|Medium|
 |107|[Binary Tree Level Order Traversal II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)|Easy|
 |118|[Pascal's Triangle](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/118.%20Pascal's%20Triangle.md)|Easy|
 |206|[Reverse Linked List](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/206.%20Reverse%20Linked%20List.md)|Easy|
