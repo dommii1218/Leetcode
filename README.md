@@ -94,6 +94,7 @@ To record coding everyday.
 |101|[Symmetric Tree](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/101.%20Symmetric%20Tree.md)|Easy|
 |102|[Binary Tree Level Order Traversal](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)|Medium|
 |103|[Binary Tree Zigzag Level Order Traversal](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md)|Medium|
+|104|[Maximum Depth of Binary Tree](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)|Easy|
 |107|[Binary Tree Level Order Traversal II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)|Easy|
 |118|[Pascal's Triangle](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/118.%20Pascal's%20Triangle.md)|Easy|
 |206|[Reverse Linked List](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/206.%20Reverse%20Linked%20List.md)|Easy|
