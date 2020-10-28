@@ -106,6 +106,7 @@ To record coding everyday.
 |113|[Path Sum II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/113.%20Path%20Sum%20II.md)|Medium|
 |114|[Flatten Binary Tree to Linked List](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)|Medium|
 |115|[Distinct Subsequences](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/115.%20Distinct%20Subsequences.md)|Hard|
+|116|[Populating Next Right Pointers in Each Node](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)|Medium|
 |118|[Pascal's Triangle](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/118.%20Pascal's%20Triangle.md)|Easy|
 |206|[Reverse Linked List](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/206.%20Reverse%20Linked%20List.md)|Easy|
 |441|[Arranging Coins](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/441.%20Arranging%20Coins.md)|Easy|
