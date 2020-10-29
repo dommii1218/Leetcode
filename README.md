@@ -125,8 +125,8 @@ To record coding everyday.
 |1480|[Running Sum of 1d Array](https://github.com/dommii1218/Leetcode/tree/master/Algorithm)|Easy|
 
 ```java
-//Array to List
-Arrays.toList(nums)
+//int[] -> List<Integer>
+Arrays.asList(nums)
 
 //List to Array (no wrapping)
 list.toArray(new int[list.size()][2])
