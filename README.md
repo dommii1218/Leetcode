@@ -110,6 +110,7 @@ To record coding everyday.
 |117|[Populating Next Right Pointers in Each Node II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.md)|Medium|
 |118|[Pascal's Triangle](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/118.%20Pascal's%20Triangle.md)|Easy|
 |119|[Pascal's Triangle II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/119.%20Pascal's%20Triangle%20II.md)|Easy|
+|120|[Triangle](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/120.%20Triangle.md)|Medium|
 |206|[Reverse Linked List](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/206.%20Reverse%20Linked%20List.md)|Easy|
 |441|[Arranging Coins](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/441.%20Arranging%20Coins.md)|Easy|
 |449|[Serialize and Deserialize BST](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/449.%20Serialize%20and%20Deserialize%20BST.md)|Medium|
