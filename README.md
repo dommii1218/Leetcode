@@ -143,6 +143,10 @@ Integer.toString(num); //int -> String
 Arrays.stream(nums).allMatch(predicate) //predicate: boolean
 IntStream.of(nums).boxed().allMatch() //boxed(): used for primitive type
 
+// To Find MAX or MIN
+Integer max = Arrays.stream(A).boxed().max(Comparator.comparing(Integer::valueOf)).get();
+Integer min = Arrays.stream(A).boxed().min(Comparator.comparing(Integer::valueOf)).get();
+
 // sort String
 public String sortStr(String str) {
     char[] chars = str.toCharArray();
