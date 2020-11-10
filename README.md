@@ -119,7 +119,7 @@ To record coding everyday.
 |129|[Sum Root to Leaf Numbers](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/129.%20Sum%20Root%20to%20Leaf%20Numbers.md)|Medium|
 |130|[Surrounded Regions](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/130.%20Surrounded%20Regions.md)|Medium|
 |131|[Palindrome Partitioning](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/131.%20Palindrome%20Partitioning.md)|Medium|
-|132|[Palindrome Partitioning II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/132.%20Palindrome%20Partitioning%II.md)|Hard|
+|132|[Palindrome Partitioning II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/132.%20Palindrome%20Partitioning%20II.md)|Hard|
 |133|[Clone Graph](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/133.%20Clone%20Graph.md)|Medium|
 |206|[Reverse Linked List](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/206.%20Reverse%20Linked%20List.md)|Easy|
 |441|[Arranging Coins](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/441.%20Arranging%20Coins.md)|Easy|
