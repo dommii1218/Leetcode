@@ -121,6 +121,14 @@ To record coding everyday.
 |131|[Palindrome Partitioning](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/131.%20Palindrome%20Partitioning.md)|Medium|
 |132|[Palindrome Partitioning II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/132.%20Palindrome%20Partitioning%20II.md)|Hard|
 |133|[Clone Graph](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/133.%20Clone%20Graph.md)|Medium|
+|134|[Gas Station](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/134.%20Gas%20Station.md)|Medium|
+|136|[Single Number](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/136.%20Single%20Number.md)|Easy|
+|137|[Single Number II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/137.%20Single%20Number%20II.md)|Medium|
+|138|[Copy List with Random Pointer](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/138.%20Copy%20List%20with%20Random%20Pointer.md)|Medium|
+|139|[Word Break](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/139.%20Word%20Break.md)|Medium|
+|140|[Word Break II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/140.%20Word%20Break%20II.md)|Hard|
+|141|[Linked List Cycle](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/141.%20Linked%20List%20Cycle.md)|Easy|
+|142|[Linked List Cycle II](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/142.%20Linked%20List%20Cycle%20II.md)|Medium|
 |206|[Reverse Linked List](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/206.%20Reverse%20Linked%20List.md)|Easy|
 |441|[Arranging Coins](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/441.%20Arranging%20Coins.md)|Easy|
 |449|[Serialize and Deserialize BST](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/449.%20Serialize%20and%20Deserialize%20BST.md)|Medium|
