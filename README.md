@@ -132,6 +132,7 @@ To record coding everyday.
 |143|[Reorder List](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/143.%20Reorder%20List.md)|Medium|
 |144|[Binary Tree Preorder Traversal](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/144.%20Binary%20Tree%20Preorder%20Traversal.md)|Medium|
 |145|[Binary Tree Postorder Traversal](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/145.%20Binary%20Tree%20Postorder%20Traversal.md)|Medium|
+|146|[LRU Cache](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/146.%20LRU%20Cache.md)|Medium|
 |206|[Reverse Linked List](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/206.%20Reverse%20Linked%20List.md)|Easy|
 |441|[Arranging Coins](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/441.%20Arranging%20Coins.md)|Easy|
 |449|[Serialize and Deserialize BST](https://github.com/dommii1218/Leetcode/blob/master/Algorithm/449.%20Serialize%20and%20Deserialize%20BST.md)|Medium|
